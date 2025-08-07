@@ -1,0 +1,20 @@
+div {
+    padding: 5px;
+    border: 2px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    margin: 5px;
+    background-color: orange;
+    text-align: center;
+}
+
+#recipeList {
+    background-color: green;
+}
+
+.list {
+    text-align: center;
+    color: red;
+    list-style-position: inside;
+}
